@@ -1,0 +1,4 @@
+com\qa\testcases\SearchTest.class
+com\qa\testcases\LoginTest.class
+com\qa\testcases\RegisterTest.class
+com\qa\base\Base.class

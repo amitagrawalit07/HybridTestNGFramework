@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-08T17:20:53 IST" name="Suite" finished-at="2023-09-08T17:21:43 IST" duration-ms="49906">
+    <groups>
+    </groups>
+    <test started-at="2023-09-08T17:20:53 IST" name="Test Automation Suite" finished-at="2023-09-08T17:21:43 IST" duration-ms="49906">
+      <class name="com.qa.testcases.LoginTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.testcases.LoginTest@397fbdb]" started-at="2023-09-08T17:20:55 IST" name="setUp" finished-at="2023-09-08T17:21:05 IST" duration-ms="9975" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyLoginWithValidCredentials(java.lang.String,java.lang.String)[pri:1, instance:com.qa.testcases.LoginTest@397fbdb]" started-at="2023-09-08T17:21:05 IST" name="verifyLoginWithValidCredentials" data-provider="supplyTestData" finished-at="2023-09-08T17:21:06 IST" duration-ms="1202" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[amit@yopmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[amit]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithValidCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testcases.LoginTest@397fbdb]" started-at="2023-09-08T17:21:06 IST" name="tearDown" finished-at="2023-09-08T17:21:07 IST" duration-ms="352" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.testcases.LoginTest@397fbdb]" started-at="2023-09-08T17:21:07 IST" name="setUp" finished-at="2023-09-08T17:21:14 IST" duration-ms="7338" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyLoginWithValidCredentials(java.lang.String,java.lang.String)[pri:1, instance:com.qa.testcases.LoginTest@397fbdb]" started-at="2023-09-08T17:21:14 IST" name="verifyLoginWithValidCredentials" data-provider="supplyTestData" finished-at="2023-09-08T17:21:16 IST" duration-ms="1630" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[amit@yopmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[amit]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithValidCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testcases.LoginTest@397fbdb]" started-at="2023-09-08T17:21:16 IST" name="tearDown" finished-at="2023-09-08T17:21:16 IST" duration-ms="307" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.testcases.LoginTest@397fbdb]" started-at="2023-09-08T17:21:16 IST" name="setUp" finished-at="2023-09-08T17:21:22 IST" duration-ms="6350" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyLoginWithValidCredentials(java.lang.String,java.lang.String)[pri:1, instance:com.qa.testcases.LoginTest@397fbdb]" started-at="2023-09-08T17:21:22 IST" name="verifyLoginWithValidCredentials" data-provider="supplyTestData" finished-at="2023-09-08T17:21:24 IST" duration-ms="1290" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[amit@yopmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[amit]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithValidCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testcases.LoginTest@397fbdb]" started-at="2023-09-08T17:21:24 IST" name="tearDown" finished-at="2023-09-08T17:21:24 IST" duration-ms="233" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.testcases.LoginTest@397fbdb]" started-at="2023-09-08T17:21:24 IST" name="setUp" finished-at="2023-09-08T17:21:34 IST" duration-ms="10457" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyLoginWithValidCredentials(java.lang.String,java.lang.String)[pri:1, instance:com.qa.testcases.LoginTest@397fbdb]" started-at="2023-09-08T17:21:34 IST" name="verifyLoginWithValidCredentials" data-provider="supplyTestData" finished-at="2023-09-08T17:21:35 IST" duration-ms="1168" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[amit@yopmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[amit]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithValidCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testcases.LoginTest@397fbdb]" started-at="2023-09-08T17:21:35 IST" name="tearDown" finished-at="2023-09-08T17:21:36 IST" duration-ms="256" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.testcases.LoginTest@397fbdb]" started-at="2023-09-08T17:21:36 IST" name="setUp" finished-at="2023-09-08T17:21:42 IST" duration-ms="5983" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyLoginWithInvalidCredentials()[pri:2, instance:com.qa.testcases.LoginTest@397fbdb]" started-at="2023-09-08T17:21:42 IST" name="verifyLoginWithInvalidCredentials" finished-at="2023-09-08T17:21:43 IST" duration-ms="1110" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginWithInvalidCredentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testcases.LoginTest@397fbdb]" started-at="2023-09-08T17:21:43 IST" name="tearDown" finished-at="2023-09-08T17:21:43 IST" duration-ms="321" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.testcases.LoginTest -->
+    </test> <!-- Test Automation Suite -->
+  </suite> <!-- Suite -->
+</testng-results>
