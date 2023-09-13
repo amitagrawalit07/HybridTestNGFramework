@@ -11,7 +11,7 @@ import com.qa.pages.HomePage;
 import com.qa.pages.SearchPage;
 
 public class SearchTest extends Base{
-	
+	//updated comments
 	public WebDriver driver;
 	SearchPage searchPage;
 	//updated comment with more details
